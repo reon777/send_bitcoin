@@ -6,6 +6,9 @@ JavaScript（ブラウザ）でビットコインを署名・送金するツー�
 
 ```bash
 npm install
+# パスを通す
+export PATH=$PATH:./node_modules/.bin
+webpack # or webpack --watch
 ```
 
 ## 実行手順
