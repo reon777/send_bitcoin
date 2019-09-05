@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "bitcore-explorers": "^1.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
   }
 }
